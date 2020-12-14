@@ -1,0 +1,33 @@
+.blog-section {
+	margin: 20px;
+}
+#footer { 
+	position: fixed; 
+	padding:12px; 
+	bottom: 0; 
+	width: 100%; 
+	color: #fff;
+	background: #000; 
+} 
+.blog-card {
+	margin-top:12px;
+	border: 2px solid #000;
+	border-radius: 8px;
+	background-color: #d6d6d6;
+}
+.form-signin{
+	margin-top: 120px;
+	padding: 12px;
+}
+.form-label{
+	margin-top:12px;
+}
+.login{
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+.section {
+	margin-top: 20px;
+	/* padding: 12px; */
+}
